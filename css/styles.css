@@ -1,0 +1,21 @@
+.wrapper{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 auto;
+}
+
+.title-container{
+    width: 200px;
+}
+
+.box-container{
+    display: flex;
+    flex-direction: column;
+    
+    width: 300px;
+    align-items: center;
+    text-align: left;
+
+}
